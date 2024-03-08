@@ -6,4 +6,47 @@
 	border-width:2px; 
 	background-color:gray; 
 	color:white;
+	position:  absolute;
+	left: 2%;
+	top: 2%;
+
+
+}
+
+#validator
+{
+	display: none;
+}
+
+.head{
+	display: none;
+}
+
+
+body{
+	margin: 0 20%;
+}
+
+.header{
+	position: relative;
+}
+
+.content{
+
+	position: absolute;
+}
+
+
+.image{
+	float: left;
+}
+
+#k{
+	float: left;
+	width: 250px;
+}
+
+
+.main{
+	text-align: fixed;
 }
